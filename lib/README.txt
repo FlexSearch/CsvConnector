@@ -1,1 +1,0 @@
-This folder will be ignored in the future in git. It will be populated using git submodule

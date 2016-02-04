@@ -1,9 +1,0 @@
-node_modules/
-bower_components/
-.sass-cache/
-.tmp/
-dist/
-typings/
-npm-debug.log
-.vscode/
-swagger.json
