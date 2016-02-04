@@ -26,7 +26,7 @@ open System.Data.SqlClient
 open System.IO
 open Microsoft.VisualBasic.FileIO
 
-// ----------------------- IMPORTANT NTOE ---------------------------------
+// ----------------------- IMPORTANT NOTE ---------------------------------
 // In this case, since the CSV connector is part of the Core project, its
 // CsvIndexingRequest object is already built into the swagger definition,
 // thus is part of the FlexSearch.Api module.
