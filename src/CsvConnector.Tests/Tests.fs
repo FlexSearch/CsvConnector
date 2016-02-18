@@ -3,6 +3,7 @@
 open FlexSearch.Api.Model
 open FlexSearch.Api.Constants
 open FlexSearch.Core
+open FlexSearch.CsvConnector
 open Swensen.Unquote
 open System
 
