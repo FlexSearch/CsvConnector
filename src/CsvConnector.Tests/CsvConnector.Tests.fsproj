@@ -53,11 +53,13 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Helpers.fs" />
     <Compile Include="Tests.fs" />
+    <Compile Include="Sample.fs" />
     <Content Include="packages.config" />
+    <None Include="test-without-header.csv" />
+    <Content Include="app.config" />
     <None Include="test.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <Content Include="app.config" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Fixie">
